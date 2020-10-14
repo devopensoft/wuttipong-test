@@ -64,7 +64,7 @@ export default function Jenosize() {
   const classes = useStyles();
   const [placeId, setPlaceId] = useState("");
   const [sessionToken, setSessionToken] = useState("");
-  const [googleKey] = useState(""); // Not use now please set in client
+  const [googleKey] = useState(""); // Not use now please set in server
   const [restaurants, setRestaurants] = useState([]);
   const [loading, setLoading] = useState(false);
 

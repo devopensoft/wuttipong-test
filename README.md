@@ -5,18 +5,16 @@ Author : Wuttipong Oammun
 Frontend : React
 Bankend : Moleculer [Node.js]
 
-Before Start
-
-# Set you Google Place API Key in file
-servics/jenosize.service.js
-const googleApiKey = "" in line 7
+# Set your Google Place API Key in file
+- `servics/jenosize.service.js`
+- `const googleApiKey = ""` in line 7
 
 # Install dpendencies for server
-npm install 
+- `npm install`
 
 # Install dpendencies for client
-cd client <br />
-npm install
+- `cd client`
+- `npm install`
 
 ## NPM scripts
 
